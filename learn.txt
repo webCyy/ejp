@@ -1,14 +1,10 @@
-<<<<<<< HEAD
 Today is Tuseday
-=======
 hello world
 I am coming
-
->>>>>>> 207c744e5a85f0f868a62147b12e2316aff2f9a8
-
 campaigin_xm
-
 campaign_sz
 cyy
 gwt
 yingjun
+zyj
+
